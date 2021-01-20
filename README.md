@@ -1,10 +1,5 @@
 ## 🖥 Preview 
-<details>
-  <summary>Clique para ver a imagem!</summary>
-  
   ![](/preview.png)
-  
-</details>
 
 ---
 
